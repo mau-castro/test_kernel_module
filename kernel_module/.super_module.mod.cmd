@@ -1,0 +1,1 @@
+cmd_/home/ichavero/cStuff/test_kernel_module/kernel_module/super_module.mod := { echo  /home/ichavero/cStuff/test_kernel_module/kernel_module/super_module.o; echo; } > /home/ichavero/cStuff/test_kernel_module/kernel_module/super_module.mod

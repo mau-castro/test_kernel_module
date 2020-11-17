@@ -4,6 +4,7 @@ This is a test kernel module
 ## Team
 
 
+
 1. [Iván Chavero](https://github.com/imcsk8) *Master Jedi*
 1. [César Murillo](https://github.com/Cesar64100) *Padwan*
 1. [Mateo Gonzalez](https://github.com/MateoGL) *Padwan*
@@ -122,3 +123,7 @@ This module registers a device major number but it does not create the device. C
 * https://education.github.com/git-cheat-sheet-education.pdf
 * https://code.visualstudio.com/docs/editor/versioncontrol
 * https://www.thegeekstuff.com/2013/07/write-linux-kernel-module/
+=======
+* [Iván Chavero](https://github.com/imcsk8) *Master Jedi*
+* [Nombre Alumno](https://github.com/example_user) *Padwan*
+* [Luis Mauricio Castro Gutiérrez](https://github.com/mau-castro) *Padwan*

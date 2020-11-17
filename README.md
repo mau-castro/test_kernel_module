@@ -68,7 +68,7 @@ Once you get the changes you must pull them to integrate them in the branch
 ~$ git checkout your_branch
 ~$ git pull
 ```
-## Module build process
+## Module build
 
 ### Build dependencies
 
@@ -79,8 +79,40 @@ On a Fedora system install the `Development Tools`  and the `C Development Tools
 ~$ sudo dnf install -y kernel-headers
 ```
 
+### Build module
+
+The Makefile defines how to build the module, execute the `make` command to compile the module.
+
+```
+~$ make
+```
+
+## Load module
+
+Load the module using the `insmod` command.
+
+```
+~$ sudo insmod super_module.ko
+```
+
+## Create the module device
+
+This module registers a device major number but it does not create the device. Create the `/dev/super_module` device manually.
+
+```
+~$ sudo mknod /dev/super_module c <device_major_number> 0
+```
+
+### Test the module
+
+```
+~$ cat /dev/super_module
+```
+
+***Be happy***
 
 # References
 
 * https://education.github.com/git-cheat-sheet-education.pdf
 * https://code.visualstudio.com/docs/editor/versioncontrol
+* https://www.thegeekstuff.com/2013/07/write-linux-kernel-module/

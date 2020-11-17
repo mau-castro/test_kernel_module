@@ -3,6 +3,7 @@ This is a test kernel module
 
 ## Team
 
+
 1. [Iván Chavero](https://github.com/imcsk8) *Master Jedi*
 1. [César Murillo](https://github.com/Cesar64100) *Padwan*
 1. [Mateo Gonzalez](https://github.com/MateoGL) *Padwan*
@@ -10,8 +11,9 @@ This is a test kernel module
 1. [Daniel Rascón](https://github.com/Dnxxl) *Padwan*
 1. [Oswaldo Holguin](https://github.com/Oswaldo-Holguin) *Padwan*
 1. [Luis Mauricio Castro Gutiérrez](https://github.com/mau-castro) *Padwan*
-
-
+1. [Gilberto Chavez](https://github.com/GilbertoCh) *Padwan*
+1. [Javier Carrera](https://github.com/JavierCarreraHW) *Padwan*
+1. [Rodrigo Alberto Valdez Covarrubias](https://github.com/RodrigoVal07) *Padawan*
 
 ### Git Basic commands
 

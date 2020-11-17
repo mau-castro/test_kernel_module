@@ -3,12 +3,14 @@ This is a test kernel module
 
 ## Team
 
-* [Iván Chavero](https://github.com/imcsk8) *Master Jedi*
-* [César Murillo](https://github.com/Cesar64100) *Padwan*
-* [Mateo Gonzalez] (https://github.com/MateoGL) *Padwan*
-* [Nicanor Sandoval](https://github.com/nicanorsandoval) *Padwan*
-* [Oswaldo Holguin](https://github.com/Oswaldo-Holguin) *Padwan*
-* [Luis Mauricio Castro Gutiérrez](https://github.com/mau-castro) *Padwan*
+1. [Iván Chavero](https://github.com/imcsk8) *Master Jedi*
+1. [César Murillo](https://github.com/Cesar64100) *Padwan*
+1. [Mateo Gonzalez](https://github.com/MateoGL) *Padwan*
+1. [Nicanor Sandoval](https://github.com/nicanorsandoval) *Padwan*
+1. [Daniel Rascón](https://github.com/Dnxxl) *Padwan*
+1. [Oswaldo Holguin](https://github.com/Oswaldo-Holguin) *Padwan*
+1. [Luis Mauricio Castro Gutiérrez](https://github.com/mau-castro) *Padwan*
+
 
 
 ### Git Basic commands
